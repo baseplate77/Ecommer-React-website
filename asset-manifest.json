@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ecommer-React-website/static/css/main.58160ec5.chunk.css",
+    "main.js": "/Ecommer-React-website/static/js/main.649f09ac.chunk.js",
+    "main.js.map": "/Ecommer-React-website/static/js/main.649f09ac.chunk.js.map",
+    "runtime-main.js": "/Ecommer-React-website/static/js/runtime-main.56691995.js",
+    "runtime-main.js.map": "/Ecommer-React-website/static/js/runtime-main.56691995.js.map",
+    "static/js/2.3ad95081.chunk.js": "/Ecommer-React-website/static/js/2.3ad95081.chunk.js",
+    "static/js/2.3ad95081.chunk.js.map": "/Ecommer-React-website/static/js/2.3ad95081.chunk.js.map",
+    "index.html": "/Ecommer-React-website/index.html",
+    "static/css/main.58160ec5.chunk.css.map": "/Ecommer-React-website/static/css/main.58160ec5.chunk.css.map",
+    "static/js/2.3ad95081.chunk.js.LICENSE.txt": "/Ecommer-React-website/static/js/2.3ad95081.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/Ecommer-React-website/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/Ecommer-React-website/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56691995.js",
+    "static/js/2.3ad95081.chunk.js",
+    "static/css/main.58160ec5.chunk.css",
+    "static/js/main.649f09ac.chunk.js"
+  ]
+}
