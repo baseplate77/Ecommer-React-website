@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+
+  .logo-container {
+    height: 100%;
+    width: 70px;
+    padding: 25px;
+    @media screen and (max-width: 800px) {
+      height: 60px;
+      padding: 10px;
+    }
+  }
+  .options {
+    width: calc(99% - 70px);
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    .option {
+      padding: 10px 15px;
+    }
+  }
+}
