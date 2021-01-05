@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ecommer-React-website/static/css/main.58160ec5.chunk.css",
-    "main.js": "/Ecommer-React-website/static/js/main.bacd7530.chunk.js",
-    "main.js.map": "/Ecommer-React-website/static/js/main.bacd7530.chunk.js.map",
+    "main.css": "/Ecommer-React-website/static/css/main.dc9f2be2.chunk.css",
+    "main.js": "/Ecommer-React-website/static/js/main.a8bd6219.chunk.js",
+    "main.js.map": "/Ecommer-React-website/static/js/main.a8bd6219.chunk.js.map",
     "runtime-main.js": "/Ecommer-React-website/static/js/runtime-main.56691995.js",
     "runtime-main.js.map": "/Ecommer-React-website/static/js/runtime-main.56691995.js.map",
-    "static/js/2.147a8bc7.chunk.js": "/Ecommer-React-website/static/js/2.147a8bc7.chunk.js",
-    "static/js/2.147a8bc7.chunk.js.map": "/Ecommer-React-website/static/js/2.147a8bc7.chunk.js.map",
+    "static/js/2.f3fa2c4d.chunk.js": "/Ecommer-React-website/static/js/2.f3fa2c4d.chunk.js",
+    "static/js/2.f3fa2c4d.chunk.js.map": "/Ecommer-React-website/static/js/2.f3fa2c4d.chunk.js.map",
     "index.html": "/Ecommer-React-website/index.html",
-    "static/css/main.58160ec5.chunk.css.map": "/Ecommer-React-website/static/css/main.58160ec5.chunk.css.map",
-    "static/js/2.147a8bc7.chunk.js.LICENSE.txt": "/Ecommer-React-website/static/js/2.147a8bc7.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/Ecommer-React-website/static/media/crown.3a4e2b15.svg",
+    "static/css/main.dc9f2be2.chunk.css.map": "/Ecommer-React-website/static/css/main.dc9f2be2.chunk.css.map",
+    "static/js/2.f3fa2c4d.chunk.js.LICENSE.txt": "/Ecommer-React-website/static/js/2.f3fa2c4d.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/Ecommer-React-website/static/media/crown.207ae289.svg",
     "static/media/shopping-bag.a688874f.svg": "/Ecommer-React-website/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.56691995.js",
-    "static/js/2.147a8bc7.chunk.js",
-    "static/css/main.58160ec5.chunk.css",
-    "static/js/main.bacd7530.chunk.js"
+    "static/js/2.f3fa2c4d.chunk.js",
+    "static/css/main.dc9f2be2.chunk.css",
+    "static/js/main.a8bd6219.chunk.js"
   ]
 }
